@@ -19,4 +19,19 @@
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyajg&layout=compact&theme=tokyonight)
+## 🚀 Featured Projects
+
+🧠 Neuro-Symbolic Interpretability with Genetic Algorithms
+Rule extraction and explainability for neural networks.
+
+🩺 ODU RI Dementia Detection
+Computer vision for healthcare applications.
+
+📊 Superconductivity Research
+High-dimensional regression with PCA-based reduction.
+
+📱 Maid Hiring Platform
+Flutter + Node.js + MongoDB.
+
+🔒 Cryptographic Data Integrity Chain
+Blockchain-inspired verification using Tiger Hash.
