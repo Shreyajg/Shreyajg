@@ -13,7 +13,7 @@
 📱 Full-Stack Developer
 
 <p align="center">
-  <a href="https://portfolio-one-gamma-pmkng7h7no.vercel.app/">
+  <a href="https://portfolio-one-gamma-pmkng7h7no.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
   </a>
 </p>
