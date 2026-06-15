@@ -35,3 +35,9 @@ Flutter + Node.js + MongoDB.
 
 🔒 Cryptographic Data Integrity Chain
 Blockchain-inspired verification using Tiger Hash.
+
+## 🌙 Off the Screen
+
+🎵 You'll probably find me at a Seventeen, CNBLUE, or Linkin Park concert
+
+📺 Or binge-watching K-dramas and C-dramas instead of making responsible life choices
